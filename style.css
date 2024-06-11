@@ -1,0 +1,19 @@
+body{background-color: black;
+}
+h1{color: aliceblue;
+}
+.p1{text-align: center; font-size: 110%;
+border-style:solid ;padding-top: 1%;}
+.p1{color: darkblue;}
+
+.p2{text-align: center; font-size: 110%;
+padding-top: 1%;}
+.p2{color: brown;}
+
+.p3{text-align: center; font-size: 110%;
+    padding-top: 1%;}
+.p3{color: chartreuse;}
+
+.p4{text-align: center; font-size: 110%;}
+.p4{color: dimgray;
+padding-top: 1%;}
